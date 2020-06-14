@@ -5,5 +5,6 @@ To view the project: [demo](http://www3.cs.umanitoba.ca/~heq3456/A4Q3/A4Q3.html)
 
 ## Languages:
 - HTML/CSS
+- Jquery/Ajax
 - Javascript
 - PHP
